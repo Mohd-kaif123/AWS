@@ -1,6 +1,6 @@
 all:
   hosts:
     awsl:
-      ansible_host: 3.88.100.252
+      ansible_host: 54.91.196.53
       ansible_user: ubuntu
       ansible_ssh_private_key_file: /home/manso/My_Ansible.pem
