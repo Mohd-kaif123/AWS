@@ -1,6 +1,6 @@
 ---
 - name: Install nginx Server
-  hosts: aws1
+  hosts: all
   become: true
   tasks:
   - name: Install Nginx 
